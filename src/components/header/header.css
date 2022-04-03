@@ -1,0 +1,36 @@
+.header {
+    height : 600px;
+    display: flex;
+    background-image: url('../../images/bg/paint.jpg');
+    background-size: cover;
+}
+
+.headerTitles {
+    margin-left: 10%;
+    flex: 3;
+    align-items: center;
+}
+
+.headerTitleLg {
+    font-family: 'Bebas Neue', cursive;
+    color: rgba(41, 2, 4, 0.789);
+    font-size: 120px;
+    margin-bottom: 15px;
+}
+
+.headerLead {
+    display: block;
+    margin: 10px;
+    color: rgb(57, 2, 45);
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 24px;
+}
+
+.product-image-1 {
+    flex : 2;
+}
+
+.header-image {
+    height: 90%;
+    opacity: 0.8;
+}

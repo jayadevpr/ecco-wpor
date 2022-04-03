@@ -1,0 +1,21 @@
+.card {
+    width: 18rem;
+    background-image: url('../../images/bg/white1.jpg');
+    background-size: contain;
+    padding: 20px;
+    margin-right: 2.5rem;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.card-title {
+    color: rgb(106, 1, 1);
+    font-size: 23px;
+    font-family :Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.card-text {
+    color: rgb(75, 1, 78);
+    font-size: 18px;
+    font-family :monospace;
+}
